@@ -1,0 +1,7 @@
+relu = Relu()
+
+def main(){
+    var v0<3> = [1.0, 2.0, 3.0];
+    var v1 = relu(v0);
+    print(v1);
+}
